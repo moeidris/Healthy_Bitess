@@ -82,7 +82,7 @@ h1{
  #img1{
     width: auto;
     height: 1000px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.841),rgba(0, 0, 0, 0.66)),url(./pic/ANS.jpeg); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.841),rgba(0, 0, 0, 0.66)),url(./ANS.jpeg); 
      background-position: center;
     background-size: cover;
     
@@ -106,14 +106,14 @@ div{
 #Soup{
   width: auto;
   height: auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.863),rgba(0, 0, 0, 0.666)),url(./pic/soups.jpeg); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.863),rgba(0, 0, 0, 0.666)),url(./soups.jpeg); 
    background-position: center;
   background-size: cover;
 }
 #mcs{
   width: auto;
   height: 1500px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.888),rgba(0, 0, 0, 0.665)),url(./pic/salmon-tacos.jpg); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.888),rgba(0, 0, 0, 0.665)),url(./salmon-tacos.jpg); 
    background-position: center;
   background-size: cover;
 }
