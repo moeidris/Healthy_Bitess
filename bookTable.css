@@ -71,7 +71,7 @@ font-family: 'Calibri';
 }
 body{
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.841),rgba(0, 0, 0, 0.5)),url(./pic/bt.jpeg); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.841),rgba(0, 0, 0, 0.5)),url(./bt.jpeg); 
     background-position: center;
    background-size: cover;
    height: 150vh; 
