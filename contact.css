@@ -86,7 +86,7 @@ main {
 }
 
 .contact-info, .contact-form {
-background-image:url(./cu.jpeg);
+background-image:url(cu.jpeg);
 background-position: center;
 background-size: cover;
 height: 70vh; 
